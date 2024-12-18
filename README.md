@@ -3,4 +3,4 @@
  ## Development Environment
 
  make sure you have javascript file
- run dist/index.js
+ run dist/index.js on browser
